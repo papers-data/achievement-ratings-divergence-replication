@@ -1,6 +1,6 @@
 # Diverging Achievement and Student Ratings: Replication Package
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22102423.svg)](https://doi.org/10.5281/zenodo.22102423)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22102422.svg)](https://doi.org/10.5281/zenodo.22102422)
 [![Code: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE)
 [![Data: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 
