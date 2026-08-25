@@ -1,0 +1,15 @@
+segment,semester,mean,sd,response_rate_pct,notes
+1-baseline,2018-I,4.71,0.66,78,
+1-baseline,2018-II,4.65,0.71,59,
+1-baseline,2019-I,5.00,0.38,75,
+1-baseline,2019-II,4.97,0.38,67,
+2-transition,2020-I,4.92,0.42,89,emergency remote teaching
+2-transition,2020-II,5.00,0.25,87,flipped intervention semester
+3-sustained,2021-II,4.91,0.50,69,
+3-sustained,2022-II,4.87,0.48,66,
+3-sustained,2023-I,4.71,0.88,78,
+3-sustained,2024-I,4.74,0.80,91,
+3-sustained,2024-II,4.56,1.03,80,
+3-sustained,2025-I,4.28,0.91,57,
+3-sustained,2025-II,4.24,1.12,50,
+3-sustained,2026-I,4.82,0.64,30,group G51 only

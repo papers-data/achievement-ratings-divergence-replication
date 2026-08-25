@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+title: >-
+  Diverging Achievement and Student Ratings in an Introductory Programming
+  Course: Replication Package
+message: >-
+  If you use this package, please cite the accompanying article. To cite the
+  package itself, use the DOI below.
+type: dataset
+authors:
+  - family-names: "Delgado S."
+    given-names: "Carlos A."
+    orcid: "https://orcid.org/0000-0002-1146-3057"
+    affiliation: "Escuela de Ingeniería de Sistemas y Computación, Universidad del Valle, Seccional Tuluá"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22102423
+    description: Zenodo deposit for version v1.0.0
+repository-code: "https://github.com/papers-data/achievement-ratings-divergence-replication"
+abstract: >-
+  Semester-level data behind an eleven-year longitudinal case study of one
+  introductory programming course at the Tuluá campus of Universidad del Valle:
+  the eighteen-semester official grade-outcome series (2015-II to 2026-I), the
+  fourteen-semester institutional course-evaluation series (2018-I to 2026-I),
+  the codebook and two independent per-comment codings for the Longitudinal
+  Directed Content Analysis of open-ended evaluation comments, the segmented
+  interrupted-time-series script, and the analysis reports behind the article's
+  tables. No student-level record is released. The grade series is aggregated to
+  the semester, and evaluation comments carry opaque identifiers with no
+  verbatim text.
+keywords:
+  - computing education
+  - introductory programming
+  - CS1
+  - flipped classroom
+  - course evaluation
+  - longitudinal study
+  - interrupted time series
+license: CC-BY-4.0
+license-url: "https://github.com/papers-data/achievement-ratings-divergence-replication/blob/main/LICENSE"
+version: v1.0.0
+date-released: "2026-08-25"

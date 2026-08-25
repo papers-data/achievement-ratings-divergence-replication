@@ -1,0 +1,36 @@
+{
+  "title": "Diverging Achievement and Student Ratings in an Introductory Programming Course: Replication Package",
+  "upload_type": "dataset",
+  "description": "Semester-level data behind an eleven-year longitudinal case study of one introductory programming course at the Tulua campus of Universidad del Valle. The package contains the eighteen-semester official grade-outcome series (2015-II to 2026-I), the fourteen-semester institutional course-evaluation series (2018-I to 2026-I), the codebook and the two independent per-comment codings used for the Longitudinal Directed Content Analysis (L-DCA) of open-ended evaluation comments, the segmented interrupted-time-series script, and the analysis reports behind the tables in the accompanying article. No student-level record is released: the grade series is aggregated to the semester, and evaluation comments appear only as opaque identifiers with no verbatim text.",
+  "notes": "Rights in the underlying records belong to Universidad del Valle. The grade records for 2015-2022 come from the instructor's own consolidated gradebooks for the course; those for 2023-2026 are exports from the institutional academic system, which gives each instructor the records for the courses they teach. The course-evaluation reports are the documents the institutional course-evaluation system issues to the instructor each semester for that instructor's own course. The CC BY 4.0 licence covers this derived, aggregated extract and transfers no right over the institution's own records.",
+  "version": "v1.0.0",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Delgado S., Carlos A.",
+      "affiliation": "Escuela de Ingenieria de Sistemas y Computacion, Universidad del Valle, Seccional Tulua",
+      "orcid": "0000-0002-1146-3057"
+    }
+  ],
+  "keywords": [
+    "computing education",
+    "introductory programming",
+    "CS1",
+    "flipped classroom",
+    "course evaluation",
+    "student ratings",
+    "longitudinal study",
+    "interrupted time series",
+    "directed content analysis"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/papers-data/achievement-ratings-divergence-replication",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset",
+      "scheme": "url"
+    }
+  ]
+}
